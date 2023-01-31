@@ -1,0 +1,277 @@
+{
+   "packagename": "com.bungaakp007.testing",
+   
+   "redirect": [
+    {
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   
+   "more":[
+   {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgamez"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraftz"
+    }
+   ],
+   
+   
+   "wallpaper_database": [
+      {
+         "id": "1",
+         "link_images": "https://i.pinimg.com/736x/e5/98/ef/e598efc0e366146af0f8ef5097fe1285.jpg"
+      },
+      {
+         "id": "2",
+         "link_images": "https://i.pinimg.com/736x/14/85/25/148525868a92871e26d1032fd928d658.jpg"
+      },
+	  {
+         "id": "3",
+         "link_images": "https://wallpaperaccess.com/full/7870626.jpg"
+      },
+      {
+         "id": "4",
+         "link_images": "https://www.nawpic.com/media/2020/preppy-aesthetic-nawpic-19.jpg"
+      },
+	  {
+         "id": "5",
+         "link_images": "https://wallpapercave.com/wp/wp9900835.jpg"
+      },
+      {
+         "id": "6",
+         "link_images": "https://wallpaperaccess.com/full/7870625.jpg"
+      },
+	  {
+         "id": "7",
+         "link_images": "https://wallpapers.com/images/hd/pink-preppy-pfp-line-strokes-and-dots-skkxwg9lu3gmqywx.jpg"
+      },
+      {
+         "id": "8",
+         "link_images": "https://www.nawpic.com/media/2020/preppy-nawpic-8.jpg"
+      },
+	  {
+         "id": "9",
+         "link_images": "https://i.pinimg.com/originals/9b/55/5e/9b555ec9c110791921e1ac48d5e68d8e.jpg"
+      },
+      {
+         "id": "10",
+         "link_images": "https://i.pinimg.com/originals/51/de/e7/51dee7eb070f5e6acedde76b8beda185.png"
+      },
+	  {
+         "id": "11",
+         "link_images": "https://i.pinimg.com/originals/82/fd/e6/82fde64ca2ba72b34cbc344f3fef4383.jpg"
+      },
+      {
+         "id": "12",
+         "link_images": "https://wallpaperaccess.com/full/7870631.jpg"
+      },
+	  {
+         "id": "13",
+         "link_images": "https://www.nawpic.com/media/2020/preppy-iphone-nawpic-3.jpg"
+      },
+      {
+         "id": "14",
+         "link_images": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilJQpmYu5PixAQEIF8-3EsfJGIh_pQBo0lHrOWdpxuT1H7AIq36yVsMsjYlRPl09rKNFVdVJ-SKvg2MZrCPC2iGKzZvenN7KROe21FCpDgeRwdzEP3UOrzZqdXiMux5IjtsTtIO_eYBY4DzU9D0NWmFKWZCzQkxufdawchgNgzDRRfzPWIPwSCibb-Cg/w1600/4-290622-preppy-wallpaper.png"
+      },
+	  {
+         "id": "15",
+         "link_images": "https://cdn.wallpapersafari.com/20/31/OQ8pD1.jpg"
+      },
+      {
+         "id": "16",
+         "link_images": "https://i.pinimg.com/736x/60/ba/5b/60ba5bfbf4bda411a5dbd852b2e2f824.jpg"
+      },
+	  {
+         "id": "17",
+         "link_images": "https://i.pinimg.com/736x/86/d1/95/86d195aec01f1003e0840b34df748cc4.jpg"
+      },
+      {
+         "id": "18",
+         "link_images": "https://i.pinimg.com/originals/4a/c7/07/4ac707fa579ce14980c4f37a187fe39d.jpg"
+      },
+	  {
+         "id": "19",
+         "link_images": "https://cdn.wallpapersafari.com/2/61/YsuUq8.jpg"
+      },
+      {
+         "id": "20",
+         "link_images": "https://wallpaper.dog/large/20511411.jpg"
+      },
+	  {
+         "id": "21",
+         "link_images": "https://i0.wp.com/joannarahier.com/wp-content/uploads/2022/09/Preppy-Wallpaper-Aesthetic-1.jpeg?resize=1080%2C1920&ssl=1"
+      },
+      {
+         "id": "22",
+         "link_images": "https://i.pinimg.com/736x/a0/2d/d8/a02dd8b92b6f3e56ffea8307e133c803.jpg"
+      },
+	  {
+         "id": "23",
+         "link_images": "https://wallpaperaccess.com/full/8074637.jpg"
+      },
+      {
+         "id": "24",
+         "link_images": "https://wallpapers.com/images/hd/preppy-rolling-stones-pattern-mpgzcupfb6f6j7va.jpg"
+      },
+	  {
+         "id": "25",
+         "link_images": "https://i.pinimg.com/originals/c1/75/a5/c175a501f9585cb17f32ef7f6197b898.jpg"
+      },
+      {
+         "id": "26",
+         "link_images": "https://i.pinimg.com/originals/9d/14/30/9d1430f886b02b88746daedcb71d4da4.jpg"
+      },
+	  {
+         "id": "27",
+         "link_images": "https://i.pinimg.com/736x/89/3e/2c/893e2cb4226d9cf1300595f9a38807e1.jpg"
+      },
+      {
+         "id": "28",
+         "link_images": "https://e1.pxfuel.com/desktop-wallpaper/801/694/desktop-wallpaper-preepy-preppy-ipad-blue.jpg"
+      },
+	  {
+         "id": "29",
+         "link_images": "https://wallpapercave.com/uwp/uwp2154419.jpeg"
+      },
+      {
+         "id": "30",
+         "link_images": "https://www.vobss.com/wp-content/uploads/2022/03/preppy-wallpaper-vobss-20.jpg"
+      },
+	  {
+         "id": "31",
+         "link_images": "https://www.vobss.com/wp-content/uploads/2022/03/preppy-wallpaper-vobss-11-500x889.jpg"
+      },
+      {
+         "id": "32",
+         "link_images": "https://www.vobss.com/wp-content/uploads/2022/03/preppy-wallpaper-vobss-28.jpg"
+      },
+	  {
+         "id": "33",
+         "link_images": "https://www.enjpg.com/img/2020/preppy-18.jpg"
+      },
+      {
+         "id": "34",
+         "link_images": "https://www.enjpg.com/img/2020/preppy-22.jpg"
+      },
+	  {
+         "id": "35",
+         "link_images": "https://www.enjpg.com/img/2020/preppy-8.jpg"
+      },
+      {
+         "id": "36",
+         "link_images": "https://i.pinimg.com/736x/36/6b/95/366b95e3dfd81a4b16d63c8e4f144dea.jpg"
+      },
+	  {
+         "id": "37",
+         "link_images": "https://www.teahub.io/photos/full/101-1012287_super-cute-preppy-iphone-wallpapers-by-preppy-wallpapers.png"
+      },
+      {
+         "id": "38",
+         "link_images": "https://wallpapercave.com/uwp/uwp2155072.jpeg"
+      },
+	  {
+         "id": "39",
+         "link_images": "https://i.pinimg.com/originals/a3/f6/0f/a3f60ffb4c15534916f61f613841515c.jpg"
+      },
+      {
+         "id": "40",
+         "link_images": "https://www.preppywallpapers.com/wp-content/uploads/2016/06/GreenStripes-1.jpg"
+      },
+	  {
+         "id": "41",
+         "link_images": "https://www.nawpic.com/media/2020/preppy-blue-nawpic-1.png"
+      },
+      {
+         "id": "42",
+         "link_images": "https://www.kolpaper.com/wp-content/uploads/2021/02/Preppy-iPhone-Wallpaper-2.jpg"
+      },
+	  {
+         "id": "43",
+         "link_images": "https://wallpaperaccess.com/full/1296217.jpg"
+      },
+      {
+         "id": "44",
+         "link_images": "https://i.pinimg.com/originals/c0/fc/c3/c0fcc387602774b98ecca23f53f67e0c.jpg"
+      },
+	  {
+         "id": "45",
+         "link_images": "https://www.wallpapertip.com/wmimgs/101-1017453_wallpaper-cute-heart-background.jpg"
+      },
+      {
+         "id": "46",
+         "link_images": "https://i.pinimg.com/originals/f0/2d/e3/f02de3a1f48bffcd6084349ff307d762.jpg"
+      },
+	  {
+         "id": "47",
+         "link_images": "https://www.enjpg.com/img/2020/preppy-pink-11.jpg"
+      },
+      {
+         "id": "48",
+         "link_images": "https://i.pinimg.com/736x/b2/61/8f/b2618ff8c7d72c01fe95f8c73136619e.jpg"
+      },
+	  {
+         "id": "49",
+         "link_images": "https://www.kolpaper.com/wp-content/uploads/2021/02/Preppy-Wallpaper-iPhone.jpg"
+      },
+      {
+         "id": "50",
+         "link_images": "https://preppywallpapers.com/wp-content/uploads/2018/08/2-Girl-Boss-iPhone-Wallpaper-Collection-by-PreppyWallpapers.jpg"
+      },
+	  {
+         "id": "51",
+         "link_images": "https://wallpaperaccess.com/full/17812.png"
+      },
+      {
+         "id": "52",
+         "link_images": "https://i.pinimg.com/736x/dc/ab/69/dcab691b8e99fc5a5f811ad0ef2419e7.jpg"
+      },
+	  {
+         "id": "53",
+         "link_images": "https://www.enwallpaper.com/wp-content/uploads/2022/06/aeb03da3a43f7ce6f7beadc9afbe2da2.jpg"
+      },
+      {
+         "id": "54",
+         "link_images": "https://i.pinimg.com/originals/72/07/4f/72074fc5e9b7540cb4022ef300e48974.jpg"
+      },
+	  {
+         "id": "55",
+         "link_images": "https://wallpaperaccess.com/full/7870634.jpg"
+      },
+      {
+         "id": "56",
+         "link_images": "https://w0.peakpx.com/wallpaper/33/110/HD-wallpaper-green-faces-smiley.jpg"
+      },
+	  {
+         "id": "57",
+         "link_images": "https://i0.wp.com/joannarahier.com/wp-content/uploads/2022/09/Violet-and-Yellow-Retro-Cool-Minimalist-Trippy-Psychedelic-Phone-Wallpaper.jpg?resize=1080%2C1920&ssl=1"
+      },
+      {
+         "id": "58",
+         "link_images": "https://i.pinimg.com/originals/c5/e6/41/c5e64129c168f9c7ae8f1640e7da46cd.jpg"
+      },
+	  {
+         "id": "59",
+         "link_images": "https://wallpapers.com/images/file/preppy-smiley-face-light-green-pattern-7u0s4zblylo3fith.jpg"
+      },
+      {
+         "id": "60",
+         "link_images": "https://i.pinimg.com/originals/2d/93/bf/2d93bf2187df2f0c94702120260b2918.png"
+      },
+      {
+         "id": "61",
+         "link_images": "https://i.pinimg.com/736x/69/89/69/6989699e241c9793f8b40a0806ead7a1.jpg"
+      },
+      {
+         "id": "62",
+         "link_images": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/605fa25f-0b8e-4251-b931-a8535c1ebdbf/dfitnva-7328408e-171f-4279-a2a0-249ab386caad.png/v1/fill/w_1280,h_2276,strp/smiley_face_psychedelic_by_pandocket_dfitnva-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjI3NiIsInBhdGgiOiJcL2ZcLzYwNWZhMjVmLTBiOGUtNDI1MS1iOTMxLWE4NTM1YzFlYmRiZlwvZGZpdG52YS03MzI4NDA4ZS0xNzFmLTQyNzktYTJhMC0yNDlhYjM4NmNhYWQucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.1cNIeHCELXoqSXh1OZhUGn_fwZw1UMjhloZZ4wDKYXw"
+      }
+   ]
+}
